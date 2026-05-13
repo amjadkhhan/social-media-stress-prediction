@@ -94,21 +94,6 @@ The project includes:
 
 ---
 
-# 🖼 Sample Graphs
-
-## 🔥 Correlation Heatmap
-![Heatmap](heatmap.png)
-
-## 📉 Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
-
-## 📈 Actual vs Predicted
-![Prediction Graph](prediction.png)
-
-> 📌 Upload your graph screenshots to the repository before using these image links.
-
----
-
 # 🚀 Future Improvements
 ✅ Deploy as web application using Streamlit  
 ✅ Add real-time prediction system  

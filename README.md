@@ -64,8 +64,8 @@ The project analyzes how social media usage, screen time, sleep habits, exercise
 
 | 🤖 Model | 📌 Type | 📏 Metric | 🎯 Score |
 |---|---|---|---|
-| Random Forest Classifier | Classification | Accuracy | 92% |
-| Random Forest Regressor | Regression | R² Score | 0.88 |
+| Random Forest Classifier | Classification | Accuracy | 33.27% |
+| Random Forest Regressor | Regression | R² Score | -0.037 |
 
 > ⚠ Replace the above values with your actual output scores.
 

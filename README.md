@@ -113,4 +113,4 @@ The project includes:
 
 # 👨‍💻 Author
 ## Amjad Khan  
-🎓 Computer Science Engineering Student
+🎓 Computer Science Engineering
